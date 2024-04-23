@@ -6,6 +6,10 @@ In this application, you can easily add and delete notes. You can store your not
 -JavaScript
 # Used libraries
 -Leaflet.js
+# website link
+(mapnotes)(https://mapnotes.netlify.app/) 
+## Note:
+Please be patient as the map loading may take a few seconds.
 # Screenshot
 ![](images/Mapnotes.png)
 # Gif
